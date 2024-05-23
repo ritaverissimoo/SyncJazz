@@ -1,0 +1,50 @@
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 62;
+  }
+
+  .navbar-brand {
+    display: none; /* omite o logo à esquerda que existe por omissão no bootstrap */
+  }
+
+
+.alert-dark {
+  background-color: #020E2A; /* aplica cor de fundo */
+  color: white; /* aplica cor ao texto */
+  margin-top: 40px; /* aplica margem em baixo */
+}
+
+.alert-light {
+  background-color: #020E2A;
+  color: white;
+}
+
+
+.navbar-nav {
+  background-color: white; /* aplica cor de fundo */
+  color: #ffffff;
+  border: 8px solid #020E2A;
+}
+
+
+  @media (max-width: 575.98px) {
+    .logo{
+        display: none;
+    }
+  }
+
+  .h6 {
+    text-align: center;
+  }
+
+  
+  
+
+
+
+
+
+
